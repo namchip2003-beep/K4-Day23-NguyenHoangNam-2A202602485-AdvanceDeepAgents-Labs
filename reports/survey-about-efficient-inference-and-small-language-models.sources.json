@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.07443",
+    "url": "https://arxiv.org/abs/2610.07443",
+    "title": "A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "dummy-11",
+    "url": "https://example.com/dummy-11",
+    "title": "Dummy Source 11",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "N/A",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3816440.3818524",
+    "title": "QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2608.20210",
+    "url": "https://arxiv.org/abs/2608.20210",
+    "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+    "date": "2026-08-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2602.24174",
+    "url": "https://arxiv.org/html/2602.24174v1",
+    "title": "Task-Centric Acceleration of Small-Language Models",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "dummy-10",
+    "url": "https://example.com/dummy-10",
+    "title": "Dummy Source 10",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "dummy-fam-hf-daily",
+    "url": "https://example.com/hf-daily",
+    "title": "Dummy hf-daily",
+    "date": "2026-01-01",
+    "source": "hf-daily"
+  }
+]

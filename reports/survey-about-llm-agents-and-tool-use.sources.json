@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "9999",
+    "url": "https://www.sciencedirect.com/science/article/pii/S294988212400032X",
+    "title": "Exploring people's perceptions of LLM-generated advice",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "10000",
+    "url": "https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2025.2043",
+    "title": "Humans perceive warmth and competence in large language models",
+    "date": "2025-11-25",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "10001",
+    "url": "https://www.nature.com/articles/s44271-025-00262-1",
+    "title": "The influence of mental state attributions on trust in large language models",
+    "date": "2025-05-25",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "10002",
+    "url": "https://dl.acm.org/doi/10.1145/3774779",
+    "title": "“Am I Understood?”: How the Interplay between Embodiment and Theory of Mind Behavior Affects LLM-Based Conversational Agents on Perceived Trust...",
+    "date": "2026-03-13",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "10003",
+    "url": "https://dl.acm.org/doi/10.1145/3772318.3790388",
+    "title": "Vibe Check: Understanding the Effects of LLM-Based...",
+    "date": "2026-04-13",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2607.20827",
+    "url": "https://huggingface.co/papers/2607.20827",
+    "title": "Auditing Provenance Sensitivity in LLM Agent Action Selection",
+    "date": "2026-07-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2604.05485",
+    "url": "https://huggingface.co/papers/2604.05485",
+    "title": "Auditable Agents",
+    "date": "2026-08-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2502.07223",
+    "url": "https://huggingface.co/papers/2502.07223",
+    "title": "Graph RAG-Tool Fusion",
+    "date": "2025-02-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "dummy-fam-arxiv",
+    "url": "https://example.com/arxiv",
+    "title": "Dummy arxiv",
+    "date": "2026-01-01",
+    "source": "arxiv"
+  }
+]

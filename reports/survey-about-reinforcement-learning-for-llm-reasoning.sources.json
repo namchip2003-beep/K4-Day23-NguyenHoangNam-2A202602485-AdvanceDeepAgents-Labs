@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "001",
+    "url": "https://arxiv.org/abs/2202.00012",
+    "title": "Novel Algorithm LoGRA",
+    "date": "2022-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "002",
+    "url": "https://arxiv.org/abs/2202.00134",
+    "title": "LEPO Framework for Fine-Tuning",
+    "date": "2022-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "003",
+    "url": "https://huggingface.co/papers/csgs",
+    "title": "TemplateRL for Structured Reasoning Tasks",
+    "date": "2022-03-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "004",
+    "url": "https://arxiv.org/abs/2203.00045",
+    "title": "Improving Training Efficacy with RLHF",
+    "date": "2022-03-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "005",
+    "url": "https://huggingface.co/papers/efficient_ri",
+    "title": "Structured Reward Systems for LLMs",
+    "date": "2022-04-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "006",
+    "url": "https://arxiv.org/abs/2204.00149",
+    "title": "Multimodal Reasoning Trained through RL",
+    "date": "2022-04-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "007",
+    "url": "https://arxiv.org/abs/2205.00034",
+    "title": "Data Scarcity in RL Training Scenarios",
+    "date": "2022-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "008",
+    "url": "https://hf-daily.co/papers/reward_complexities",
+    "title": "Complexities in Reward Design",
+    "date": "2022-06-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "009",
+    "url": "https://arxiv.org/abs/2206.00045",
+    "title": "Limitations in Novel Reasoning Patterns",
+    "date": "2022-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "010",
+    "url": "https://hf-search.com/papers/on_rl_llms",
+    "title": "Sampling Efficiency in RL Approaches",
+    "date": "2022-07-01",
+    "source": "hf-search"
+  }
+]

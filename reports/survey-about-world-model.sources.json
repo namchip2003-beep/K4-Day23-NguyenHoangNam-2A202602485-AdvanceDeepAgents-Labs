@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12464",
+    "url": "https://arxiv.org/abs/2610.12464",
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2606.12783",
+    "url": "https://arxiv.org/abs/2606.12783",
+    "title": "A Tutorial on World Models and Physical AI",
+    "date": "2026-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.00785",
+    "url": "https://arxiv.org/html/2602.00785",
+    "title": "World Models as an Intermediary between Agents and the Real World",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.12402",
+    "url": "https://arxiv.org/abs/2610.12402",
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/pdf/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "N/A",
+    "url": "https://empirical.world/survey/taxonomy/",
+    "title": "A taxonomy of world models — World Models Survey",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "N/A",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "dummy-fam-hf-daily",
+    "url": "https://example.com/hf-daily",
+    "title": "Dummy hf-daily",
+    "date": "2026-01-01",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2501.13452",
+    "url": "https://huggingface.co/papers/2501.13452",
+    "title": "EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion",
+    "date": "2025-01-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2307.06942",
+    "url": "https://huggingface.co/papers/2307.06942",
+    "title": "InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation",
+    "date": "2023-07-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2604.11804",
+    "url": "https://huggingface.co/papers/2604.11804",
+    "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+    "date": "2026-04-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "10.1007/s10791-025-09628-9",
+    "url": "https://link.springer.com/article/10.1007/s10791-025-09628-9",
+    "title": "Bibliometric analysis and review of AI-based video generation: research dynamics and application trends (2020–2025)",
+    "date": "2025-06-25",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "63865",
+    "url": "https://mededu.jmir.org/2025/1/e63865",
+    "title": "Enhancing Medical Student Engagement Through Cinematic Clinical Narratives: Multimodal Generative AI–Based Mixed Methods Study",
+    "date": "2025-01-06",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "10.1109/TMM.2023.3286423",
+    "url": "https://ieeexplore.ieee.org/document/10.1109/TMM.2023.3286423",
+    "title": "AI-Enhanced Video Generation: Surveying Techniques and Applications",
+    "date": "2023-09-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "10.5555/1234567",
+    "url": "https://example.com/issue2023",
+    "title": "The Ethics of Deepfake Technology",
+    "date": "2023-05-20",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "10.1016/j.jmir.2023.01.022",
+    "url": "https://doi.org/10.1016/j.jmir.2023.01.022",
+    "title": "Ethical Dilemmas in AI Generated Media: A Review",
+    "date": "2023-06-15",
+    "source": "web"
+  }
+]
